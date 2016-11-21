@@ -4,7 +4,7 @@
   "main": "./lib/index",
   "description": "A Packery component for React.js",
   "dependencies": {
-    "packery": "eiriklv/packery",
+    "packery": "aspjg/packery",
     "imagesloaded": "eiriklv/imagesloaded"
   },
   "devDependencies": {},
